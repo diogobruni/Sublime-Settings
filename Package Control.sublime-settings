@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"EJS",
+		"Emmet",
+		"Git",
+		"Insert Callback",
+		"Jade",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"StandardFormat",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-standard",
+		"Vue Syntax Highlight"
+	]
+}
